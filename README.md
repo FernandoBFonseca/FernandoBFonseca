@@ -1,5 +1,5 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on a lot of side personnal projects to learn new things and helping my fellow comrade [@srjotaf](https://github.com/srjotaf) for automation of administrative tasks for the Electric FSAE team @EESC-USP-TUPA which we're members
-- 🌱 I’m currently learning Python for Automation and Machine Learning and Microcontrollers (Arduino and ESP) for IoT and Robotics
+- 🔭 I’m Currently working on some academic projects involving robotics, in particular manipulator and explorer robots.
+- 🌱 I’m currently learning ROS and SLAM for Robotics and Autonomous Navigation.
 - 📫 How to reach me: fernandobdf05@gmail.com
