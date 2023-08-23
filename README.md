@@ -1,5 +1,4 @@
 ### Hello there 👋
 
-- 🔭 I’m Currently working on some academic projects involving robotics, in particular manipulator and explorer robots.
-- 🌱 I’m currently learning ROS and SLAM for Robotics and Autonomous Navigation.
+- 🔭 I’m currently doing a intership in Schneider Electric MDC Europe, working in the developpment of Production Line's Test Stands using especially NI LabView and VI TestStand.
 - 📫 How to reach me: fernandobdf05@gmail.com
